@@ -1,8 +1,5 @@
 ## Hi there, I'm Saki 👋  
 ### An enthusiastic web application developer
-- 🔭 I’m currently working on [StubSnap](https://github.com/saki-44/StubSnap) with **Ruby on Rails** 
-- 🌱 I’m currently learning **React**
-
 
 ## Skills
 ### Main Skills
